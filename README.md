@@ -40,9 +40,23 @@ Tags | Description
 `<thead>` | It is used to group the header content in a table
 `<tfooter>` | It is used to group the footer content in a table
 ___
+### Create a Hyperlink in HTML
+The HTML provides an anchor tag to create a hyperlink that links one page to another page. These tags can appear in any of the following ways:
 
+* Unvisited link – It is displayed, underlined and blue.
+* Visited link – It is displayed, underlined and purple.
+* Active link – It is displayed, underlined and red.
+ 
+The syntax of Hyperlink in HTML is:
+`<a href = "..........."> Link Text </a>`
+___
+### Name some common lists that are used when designing a page.
+There are many common lists used for design a page. You can choose any or a combination of the following list types:
 
-
+* Ordered list – The ordered list displays elements in a numbered format. It is represented by `<ol>` tag.
+* Unordered list – The unordered list displays elements in a bulleted format. It is represented by `<ul>` tag.
+* Definition list – The definition list displays elements in definition form like in a dictionary. The `<dl>`, `<dt>` and `<dd>` tags are used to define description list.
+___
 
 
 ##### Reference
