@@ -35,11 +35,11 @@ ___
   |`<td>` | This is used to define a cell in a table|
   |`<caption>` | It defines the table caption|
   |`<colgroup>` | It specifies a group of one or more columns in a table for formatting|
-  |`<col>` | This is used with <colgroup> element to specify column properties for each column|
+  |`<col>` | This is used with `<colgroup>` element to specify column properties for each column|
   |`<tbody>` | This tag is used to group the body content in a table.|
   |`<thead>` | It is used to group the header content in a table|
   |`<tfooter>` | It is used to group the footer content in a table|
-  |---|---|
+
 ___
 ### Create a Hyperlink in HTML
 The HTML provides an anchor tag to create a hyperlink that links one page to another page. These tags can appear in any of the following ways:
