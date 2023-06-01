@@ -58,9 +58,21 @@ There are many common lists used for design a page. You can choose any or a comb
 * Unordered list – The unordered list displays elements in a bulleted format. It is represented by `<ul>` tag.
 * Definition list – The definition list displays elements in definition form like in a dictionary. The `<dl>`, `<dt>` and `<dd>` tags are used to define description list.
 ___
-
-
+### Explain the layout of HTML.
+![image](https://github.com/CoderFauzan/HTML-Basic/assets/90621630/860ab888-ecbd-4a0f-b4f8-eb26edaeba9f)
+* `<header>`: It is used to define a header for a document or a section.
+* `<nav>`: This defines a container for navigation links
+* `<section>`: It is used to define a section in a document
+* `<article>`: This is used to define an independent, self-contained article
+* `<aside>`: It is used to define content aside from the content
+* `<footer>`: It is used to define a footer for a document or a section
+___
+### How do you separate a section of texts in HTML?
+* `<br>` tag – It is used to separate the line of text. It breaks the current line and shifts the flow of the text to a new line.
+* `<p>` tag–This tag is used to write a paragraph of text.
+* `<blockquote>` tag–This tag is used to define large quoted sections.
 ##### Reference
 * https://www.edureka.co/blog/interview-questions/top-50-html-interview-questions-and-answers/
 * https://www.shiksha.com/online-courses/articles/top-html-interview-questions-and-answers/
+* https://www.simplilearn.com/html-interview-questions-and-answers-article
 
